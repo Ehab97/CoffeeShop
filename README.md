@@ -2,6 +2,8 @@
 
 Welcome to the Coffee Shop App, a mobile application built using React Native and Expo. This app provides a delightful experience for coffee enthusiasts to explore various coffee options, place orders, and enjoy a seamless user interface.
 
+![mockup](https://github.com/Ehab97/CoffeeShop/assets/28493731/3ac01b96-71ab-45a7-aa25-4eb694cfed77)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
